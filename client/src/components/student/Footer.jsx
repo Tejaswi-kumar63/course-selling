@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="flex flex-col md:flex-row items-start px-8 md:px-0 justify-center gap-10 md:gap-32 py-10 border-b border-white/30">
 
         <div className="flex flex-col md:items-start items-center w-full">
-          <img src={assets.logo_dark} alt="logo" />
+          
           <p className="mt-6 text-center md:text-left text-sm text-white/80">
  Classora is your go-to platform for discovering, learning, and mastering new skills through expert-led online courses. Learn at your pace, anytime, anywhere.
           </p>
